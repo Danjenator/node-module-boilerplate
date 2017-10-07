@@ -1,6 +1,6 @@
 {
-  "name": "osmose-email-engine",
-  "version": "0.0.0",
+  "name": "module-boilerplate",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,11 +13,10 @@
     "url": "git+https://github.com/OpenSourceMarketingServiceOrg/osmose-email-engine.git"
   },
   "keywords": [
-    "osmose",
-    "email",
-    "ses",
+    "module",
     "webpack",
-    "babel"
+    "babel",
+    "boilerplate"
   ],
   "author": "Daniel Brown",
   "license": "MIT",
